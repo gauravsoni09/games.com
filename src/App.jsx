@@ -180,7 +180,7 @@ export default function App() {
         <div className="border border-purple-500 rounded-2xl p-2 bg-black w-56 text-blue-400 font-bold shadow-lg hover:scale-105 transition-all duration-300">
           <GameCard
             download={download}
-            image="gta5.jpg"
+            image="/gta5.jpg"
             name="GTA 5"
             genre="Action"
             rating="4.5"
@@ -194,7 +194,7 @@ export default function App() {
         <div className="border border-purple-500 rounded-2xl p-2 bg-black w-56 text-blue-400 font-bold shadow-lg hover:scale-105 transition-all duration-300">
           <GameCard
             download={download}
-            image="rdr2.jpg"
+            image="/rdr2.jpg"
             name="RDR 2"
             genre="Action"
             rating="4.6"
@@ -208,7 +208,7 @@ export default function App() {
         <div className="border border-purple-500 rounded-2xl p-2 bg-black w-56 text-blue-400 font-bold shadow-lg hover:scale-105 transition-all duration-300">
           <GameCard
             download={download}
-            image="lous.png"
+            image="/lous.png"
             name="Last of Us 2"
             genre="Action"
             rating="4.3"
@@ -222,7 +222,7 @@ export default function App() {
         <div className="border border-purple-500 rounded-2xl p-2 bg-black w-56 text-blue-400 font-bold shadow-lg hover:scale-105 transition-all duration-300">
           <GameCard
             download={download}
-            image="wukong.jpg"
+            image="/wukong.jpg"
             name="Black Myth Wukong"
             genre="Adventure"
             rating="5"
@@ -236,7 +236,7 @@ export default function App() {
         <div className="border border-purple-500 rounded-2xl p-2 bg-black w-56 text-blue-400 font-bold shadow-lg hover:scale-105 transition-all duration-300">
           <GameCard
             download={download}
-            image="gow.jpg"
+            image="/gow.jpg"
             name="God of War"
             genre="Adventure"
             rating="4.9"
@@ -250,7 +250,7 @@ export default function App() {
         <div className="border border-purple-500 rounded-2xl p-2 bg-black w-56 text-blue-400 font-bold shadow-lg hover:scale-105 transition-all duration-300">
           <GameCard
             download={download}
-            image="resident.jpg"
+            image="/resident.jpg"
             name="Resident Evil 4"
             genre="Horror + Action"
             rating="4.9"
@@ -264,7 +264,7 @@ export default function App() {
         <div className="border border-purple-500 rounded-2xl p-2 bg-black w-56 text-blue-400 font-bold shadow-lg hover:scale-105 transition-all duration-300">
           <GameCard
             download={download}
-            image="valorant.jpg"
+            image="/valorant.jpg"
             name="Valorant"
             genre="RPG"
             rating="4.1"
@@ -278,7 +278,7 @@ export default function App() {
         <div className="border border-purple-500 rounded-2xl p-2 bg-black w-56 text-blue-400 font-bold shadow-lg hover:scale-105 transition-all duration-300">
           <GameCard
             download={download}
-            image="nfs.jpg"
+            image="/nfs.jpg"
             name="Need for Speed Most Wanted"
             genre="Racing"
             rating="4.9"
@@ -292,7 +292,7 @@ export default function App() {
         <div className="border border-purple-500 rounded-2xl p-2 bg-black w-56 text-blue-400 font-bold shadow-lg hover:scale-105 transition-all duration-300">
           <GameCard
             download={download}
-            image="cyber.jpg"
+            image="/cyber.jpg"
             name="Cyberpunk"
             genre="Adventure"
             rating="4.9"
@@ -306,7 +306,7 @@ export default function App() {
         <div className="border border-purple-500 rounded-2xl p-2 bg-black w-56 text-blue-400 font-bold shadow-lg hover:scale-105 transition-all duration-300">
           <GameCard
             download={download}
-            image="mine.jpg"
+            image="/mine.jpg"
             name="Minecraft"
             genre="Adventure"
             rating="4.9"
